@@ -1,3 +1,3 @@
 # system_design
 
-Stores diagrams director from draw.io 
+Stores diagrams directly from draw.io 
