@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T07:32:36.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="61LSXy_znndVmt0sTQpv" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T10:28:59.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LN_405i6qhyOavQmfTIo" version="21.5.0" type="github">
   <diagram name="Page-1" id="bINEpggxaIPucE5jICGg">
-    <mxGraphModel dx="1314" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1643" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-1" value="Kepten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="15" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.741;entryY=0.945;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qtyp-xxe1IDi7t3Woxf6-2" target="qtyp-xxe1IDi7t3Woxf6-7">
           <mxGeometry relative="1" as="geometry" />
@@ -22,8 +22,11 @@
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.393;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qtyp-xxe1IDi7t3Woxf6-2" target="qtyp-xxe1IDi7t3Woxf6-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qtyp-xxe1IDi7t3Woxf6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qtyp-xxe1IDi7t3Woxf6-2" target="qtyp-xxe1IDi7t3Woxf6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-2" value="nexusgate/&lt;br&gt;securityserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.382;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qtyp-xxe1IDi7t3Woxf6-4" target="qtyp-xxe1IDi7t3Woxf6-7">
           <mxGeometry relative="1" as="geometry" />
@@ -32,10 +35,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-4" value="Airflow (Scheduler)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-5" value="databand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="190" width="120" height="70" as="geometry" />
+          <mxGeometry x="264" y="180" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.698;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qtyp-xxe1IDi7t3Woxf6-7" target="qtyp-xxe1IDi7t3Woxf6-14">
           <mxGeometry relative="1" as="geometry">
@@ -48,7 +51,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-7" value="K8S" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qtyp-xxe1IDi7t3Woxf6-13" target="qtyp-xxe1IDi7t3Woxf6-1">
           <mxGeometry relative="1" as="geometry" />
@@ -63,13 +66,19 @@
           <mxGeometry x="60" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-14" value="hadoop" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="670" y="110" width="60" height="80" as="geometry" />
+          <mxGeometry x="670" y="160" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-17" value="harbour" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qtyp-xxe1IDi7t3Woxf6-27" value="value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="650" width="104" height="60" as="geometry" />
+          <mxGeometry x="280" y="570" width="104" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qtyp-xxe1IDi7t3Woxf6-32" value="JWT Token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qtyp-xxe1IDi7t3Woxf6-33" value="Executes job based on cron expression" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
